@@ -2,7 +2,7 @@
 
 Link to the introduction of talk: [here](https://llvm.org/devmtg/2019-04/talks.html#SRC_1)
 
-Slides, posters: (to be uploaded)
+Slides: [here](slides.pdf), poster: (to be uploaded)
 
 Miscompilation example: [here](bug34548/)
 
