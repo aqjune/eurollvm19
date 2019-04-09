@@ -4,11 +4,17 @@ Link to the introduction of talk: [here](https://llvm.org/devmtg/2019-04/talks.h
 
 Slides: [here](slides.pdf), poster: [here](poster.pdf)
 
-Miscompilation example: [here](bug34548/)
-
 Sound optimizations: [here](SoundOptList.md)
 
 Paper(OOPSLA'19): [here](https://sf.snu.ac.kr/publications/llvmtwin.pdf)
+
+## Miscompilation example
+
+Working example: [here](bug34548/)
+
+LLVM bugtracker link: https://bugs.llvm.org/show_bug.cgi?id=34548
+
+GCC bug link: https://gcc.gnu.org/bugzilla/show_bug.cgi?id=82282
 
 ## Implementation
 
